@@ -51,7 +51,7 @@ Run the following command in the next line to start the application:
 npm start
 ```
 
-In Insomnia core or your preffered REST client, use the 
+In Insomnia core or your preffered REST client, using this url `localhost:3001/api/` followed by `categories`, `products` or `tags` to get to the desired end point to check that it is getting data from the database. If you want to select a single specific category, product or tag, just add the id of the target at the end of the URL. Examples below:
 
 ### GET All Categories, POST a new category
 ```
