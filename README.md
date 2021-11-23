@@ -39,7 +39,7 @@ npm run seed
 ## Usage 
 
 ### Input MySQL credentials
-In the `.env` file insert your SQL credentials for the application to access the database
+Rename the `.env.EXAMPLE` file to `.env` and insert your SQL credentials for the application to access the database
 ```sql
 DB_USER='USERNAME_HERE'
 DB_PW='PASSWORD_HERE'
